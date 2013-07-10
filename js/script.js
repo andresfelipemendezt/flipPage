@@ -1,6 +1,6 @@
 
 window.onload = function() {  
-function showCoords(event){
+	function showCoords(event){
 	var color = "#000";
 	console.log(event.clientX +","+ event.clientX);
 	var posX = event.clientX;
@@ -14,11 +14,9 @@ function showCoords(event){
 	console.log(color);
 	page.attr({
     	fill : color,
-    });
-	return color;
-}
-
-
+	    });
+		return color;
+	}
 
     var page1 = new Raphael(document.getElementById('page1'), 1000, 700);   
     var page = page1.rect(500,0,500,700);  

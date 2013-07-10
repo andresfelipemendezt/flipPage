@@ -1,0 +1,463 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"po",
+				"posY"
+			],
+			[
+				"log",
+				"logcolor"
+			],
+			[
+				"doc",
+				"Document"
+			],
+			[
+				"pos",
+				"posX"
+			],
+			[
+				"a",
+				"attr"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"im",
+				"important"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 314,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "stylus/style.styl",
+			"settings":
+			{
+				"buffer_size": 58,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/script.js",
+			"settings":
+			{
+				"buffer_size": 998,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 293.0,
+		"selected_items":
+		[
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"fe",
+				"Fetch: File"
+			],
+			[
+				"vi",
+				"View In Browser"
+			],
+			[
+				"vie",
+				"View In Browser"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ft",
+				"FTPSync: Upload current file"
+			],
+			[
+				"ftp",
+				"FTPSync: Browse"
+			],
+			[
+				"set sty",
+				"Set Syntax: Stylus"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 402.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Felipe/Desktop/flipPage/js/raphael.js",
+		"/C/Users/Felipe/Desktop/flipPage/js/jquey",
+		"/C/Users/Felipe/Desktop/flipPage/stylus.style.styl",
+		"/C/Users/Felipe/Desktop/flipPage/css/style.css",
+		"/C/Users/Felipe/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Felipe/Desktop/flip page/index.html",
+		"/C/Users/Felipe/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Felipe/Desktop/flip page/stylus.style.styl",
+		"/C/Users/Felipe/AppData/Roaming/Sublime Text 3/Installed Packages/README.md",
+		"/C/Users/Felipe/Desktop/flip page/css/style.css",
+		"/C/xampp/htdocs/UOR/css/style.css",
+		"/C/xampp/htdocs/UOR/stylus/style.styl",
+		"/C/Users/Felipe/AppData/Roaming/Sublime Text 3/Packages/User/Fetch.sublime-settings",
+		"/C/xampp/htdocs/UOR/servicios.php",
+		"/C/xampp/htdocs/UOR/index.php",
+		"/C/xampp/htdocs/UOR/quienes.php",
+		"/C/Users/Felipe/AppData/Roaming/Sublime Text 3/Packages/FTPSync/FTPSync.sublime-settings",
+		"/C/xampp/htdocs/UOR/bienestar.php",
+		"/C/Users/Felipe/AppData/Roaming/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/C/Users/Felipe/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/xampp/htdocs/UOR/css/jquery.bxslider.css",
+		"/C/xampp/htdocs/UOR/stylus/fuentes.styl",
+		"/C/xampp/htdocs/UOR/header.php",
+		"/C/xampp/htdocs/UOR/footer.php",
+		"/C/xampp/htdocs/UOR/js/script.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"X",
+			"e.",
+			"Y",
+			"\"",
+			"m_color",
+			"paper",
+			" 500);",
+			"Raphael",
+			"script",
+			"raphael",
+			"tabs",
+			"true",
+			"line",
+			"theme",
+			"80%",
+			"nav a",
+			"confianza",
+			"#tabs",
+			"h3",
+			"#tabs",
+			"</li>",
+			"li>",
+			"#tabs",
+			"#tabs ",
+			"ol",
+			"800",
+			"bottom",
+			".conte",
+			"ans-Italic",
+			"Italic",
+			"italic",
+			"Italic",
+			"em",
+			"ts/opensans",
+			"OpenSans",
+			"opensans",
+			"ns",
+			"Regular",
+			"<p><",
+			"</h2",
+			"h2",
+			"2> ",
+			"135px",
+			"header"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			");\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 314,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								314,
+								314
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "stylus/style.styl",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 58,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								58,
+								58
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Stylus/Stylus.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 998,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								492,
+								492
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.412190082645,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "flippage.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"sty",
+				"stylus.style.styl"
+			],
+			[
+				"cs",
+				"css\\style.css"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"q",
+				"quienes.php"
+			],
+			[
+				"bx",
+				"css\\jquery.bxslider.css"
+			],
+			[
+				"fue",
+				"stylus\\fuentes.styl"
+			],
+			[
+				"ser",
+				"servicios.php"
+			],
+			[
+				"fo",
+				"footer.php"
+			],
+			[
+				"he",
+				"header.php"
+			],
+			[
+				"jq",
+				"css\\jquery.bxslider.css"
+			],
+			[
+				"js",
+				"js\\script.js"
+			],
+			[
+				"styl",
+				"stylus\\style.styl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 102.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
