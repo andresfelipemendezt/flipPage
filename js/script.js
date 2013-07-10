@@ -1,17 +1,40 @@
 
+
+
 window.onload = function() {  
-    var paper = new Raphael(document.getElementById('canvas_container'), 500, 500);  
-    var tetronimo = paper.path("M 250 250 l 0 -50 l -50 0 l 0 -50 l -50 0 l 0 50 l -50 0 l 0 50 z");  
-    tetronimo.attr(  
+	var posX = 0;
+	var posY = 0;
+
+	function readMouse(e){
+		posX = "e.clientX";
+		posY = "e.clientY";
+		color = "#f"+posX+"0";
+		return color
+	};
+
+	// var m_color = readMouse();
+
+    console.log(readMouse());
+
+    var page1 = new Raphael(document.getElementById('page1'), 1000, 700);   
+    var page = page1.rect(500,0,500,700);  
+    page.attr(  
         {  
             gradient: '90-#526c7a-#64a0c1',  
-            stroke: '#3b4449',  
+            stroke: '#0f0',  
             'stroke-width': 10,  
-            'stroke-linejoin': 'round',  
-            rotation: -90  
+            'stroke-linejoin': 'round',
+            'clip-rect': '0,0,500,700'
         }  
-    );  
-  
-    tetronimo.animate({"transform": "r 360"}, 2000, 'bounce');  
+    ); 
 
+    page.animate({"x": "0"}, 2000, "linear");
+    page.animate({"clip-rect": "00,0,500,700"}, 2000, "linear");
+
+    page.mouseover(
+    	readMouse(event)
+    );
+    page.attr({
+		fill: color
+    });
 }
