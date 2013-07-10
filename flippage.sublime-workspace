@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"clip",
+				"clipRect"
+			],
+			[
+				"cl",
+				"clipWidth"
+			],
+			[
 				"po",
 				"posY"
 			],
@@ -55,7 +63,7 @@
 			"file": "js/script.js",
 			"settings":
 			{
-				"buffer_size": 998,
+				"buffer_size": 1178,
 				"line_ending": "Windows"
 			}
 		}
@@ -177,6 +185,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"'",
 			"X",
 			"e.",
 			"Y",
@@ -308,15 +317,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 998,
+						"buffer_size": 1178,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								492,
-								492
+								423,
+								423
 							]
 						],
 						"settings":
@@ -365,7 +374,7 @@
 		"rows":
 		[
 			0.0,
-			0.412190082645,
+			0.219008264463,
 			1.0
 		]
 	},
