@@ -19,7 +19,7 @@ window.onload = function() {
 		page.attr({
 	    	fill : color,
 	    	transform: rotateY,
-	    	'clip-rect': '\"'+posX+',0,'+clipWidth +',700\"'
+	    	'clip-rect': posX+',0,'+clipWidth +',700'
 		    });
 
 		return color;
