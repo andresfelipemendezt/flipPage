@@ -63,7 +63,7 @@
 			"file": "js/script.js",
 			"settings":
 			{
-				"buffer_size": 1178,
+				"buffer_size": 1171,
 				"line_ending": "Windows"
 			}
 		}
@@ -317,15 +317,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1178,
+						"buffer_size": 1171,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								500,
-								500
+								391,
+								391
 							]
 						],
 						"settings":
@@ -333,7 +333,7 @@
 							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 117.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
